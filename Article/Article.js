@@ -112,3 +112,25 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+
+
+// function createComponentOne(data){
+
+//   const newDiv = document.createElement('div');
+//   const newH2 = document.createElement('h2');
+//   const newP = document.createElement('p');
+//   const newSpan = document.createElement('span');
+
+//   newDiv.classList.add('articles');
+
+
+//   let grabH2 = document.querySelectorAll('#firstH2');
+
+//   grabH2.id.add(firstH2)
+//   grabH2.classList.add('articles');
+//   grabH2.textContent = data.title.forEach(function(currentElement){
+//     let h2 = createComponentOne(currentElement);
+//   })
+
+
+// }
